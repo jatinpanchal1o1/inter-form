@@ -1,6 +1,6 @@
 import React from "react";
 import SelectComponent from "../fun/selectComponent";
-import TextComponentImp from "../fun/impTextComponent";
+import TextComponentImp from "../fun/imptextComponent";
 import TextComponent from "../fun/textComponent";
 import {
   country,
