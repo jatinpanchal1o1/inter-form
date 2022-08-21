@@ -10,7 +10,7 @@ function App() {
     <MainLayout>
       <Router>
         <Routes>
-          <Route index element={<Home />} />
+          <Route path="/inter-form" element={<Home />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </Router>
